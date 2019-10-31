@@ -13,9 +13,9 @@ The files include headers and code written in C to implement and add new functio
 7) proc.c
 8) ps.c
 
-The reader/learner is encouraged to use/modify files like checkwaitpid.c which test the implementation of waitpid in xv6. We have made sure that all the three levels of problem statement are met.
+The reader/learner is encouraged to use/modify files like checkwaitpid.c which test the implementation of waitpid in xv6. We have made sure that all the three levels of problem statement(also included in repository) are met.
 
-We hope you have fun and learn something from our contribution. If you find something unclear, please don't hesitate to reach us at 
+We hope you have fun and learn something from our contribution. If you find something unclear, please don't hesitate to reach us at :
 
 cs14b001@smail.iitm.ac.in 
 (or)
