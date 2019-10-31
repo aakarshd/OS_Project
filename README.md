@@ -17,7 +17,8 @@ The reader/learner is encouraged to use/modify files like checkwaitpid.c which t
 
 We hope you have fun and learn something from our contribution. If you find something unclear, please don't hesitate to reach us at 
 
-cs14b001@smail.iitm.ac.in
+cs14b001@smail.iitm.ac.in 
+(or)
 cs17b005@smail.iitm.ac.in
 
 Best Regards,
