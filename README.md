@@ -11,7 +11,9 @@ The files include headers and code written in C to implement and add new functio
 5) usys.S
 6) syscall.c
 7) proc.c
-8) ps.c
+8) check_level1.c
+9) check_level2.c
+10) check_level3.c
 
 The reader/learner is encouraged to use/modify files like checkwaitpid.c which test the implementation of waitpid in xv6. We have made sure that all the three levels of problem statement(also included in repository) are met.
 
