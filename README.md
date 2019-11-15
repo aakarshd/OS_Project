@@ -1,6 +1,6 @@
 # OS_Project
 
-This repository contains documentation of modified xv6 files which are worked upon by Subhash and myself, as a part of the requirements of the Operating Systems course, which we are pursuing in our 5th semester.
+This repository contains documentation of modified xv6 files which are worked upon by Subhash and myself, as a part of the requirements of the Operating Systems course, which we are pursuing in our 5th semester.The problem statement for the same can be found in the pdf named "proj".
 
 The files include headers and code written in C to implement and add new functionality namely the waitpid() syscall to the opensource xv6 OS, and as a part of our project we have updated various files (the list of which you will find below). 
 
